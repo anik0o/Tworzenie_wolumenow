@@ -1,7 +1,7 @@
 ## Sprawozdanie z wolumenow
 
 # 1
-Pliki dockerfile oraz pluto.sh znajduja sie w repozytorium
+Pliki dockerfile oraz pluto.sh znajduja sie w repozytorium wolumeny: https://github.com/anik0o/wolumeny
 
 # 2
 Do zbudowania obrazu o nazwie lab4docker wykorzystalam polecenie: `docker build . -t lab4docker`
